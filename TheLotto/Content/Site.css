@@ -1,0 +1,25 @@
+﻿.button {
+    font-size:20px;
+    width:30%;
+    margin-bottom:20px;
+    background-color:#0026ff;
+    margin-top:100px;
+}
+.circle {
+    border-style:solid;
+    border-width:thin;
+    border-radius:50%;
+    display:inline-block;
+    margin:10px;
+    font-size:30px;
+    padding:15px;
+    background-color:#0026ff;
+    color:#ffffff;
+    text-align:center;
+}
+.numbers {
+    text-align:center;
+}
+.input {
+    text-align:center;
+}
