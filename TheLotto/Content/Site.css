@@ -1,9 +1,21 @@
-﻿.button {
+﻿body {
+    background-image: url('../images/lottoballs.jpg');
+    background-size: cover;
+}
+.body-content {
+    background-color:rgba(0,0,0,0.9);
+    padding-top:100px;
+    text-align:center;
+    color:blue;
+}
+
+.button {
     font-size:20px;
     width:30%;
-    margin-bottom:20px;
-    background-color:#0026ff;
-    margin-top:100px;
+    margin-bottom:50px;
+    background-color:blue;
+    color:white;
+    margin-top:50px;
 }
 .circle {
     border-style:solid;
@@ -20,6 +32,12 @@
 .numbers {
     text-align:center;
 }
-.input {
-    text-align:center;
+
+.rectangle {
+    width:250px;
+    height:10px;
+    font-size:45px;
+    padding:30px;
+    margin:auto;
+    margin-bottom:50px;
 }
